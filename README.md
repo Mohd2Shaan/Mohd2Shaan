@@ -2,7 +2,7 @@
 
 I build apps that people actually use, and the backends that keep them running.
 
-I'm a full-stack engineer and a third-year B.Tech CSE (AI & ML) student at **VIT Chennai**. In 2026 I was the founding engineer at a food-delivery startup, and the app I built crossed **7,000 downloads** with **50+ restaurant partners** on it. These days I lead mobile development for a student studio, train ML models, and build things that work without the internet.
+I'm a full-stack engineer and a third-year B.Tech CSE (AI & ML) student at **VIT Chennai**. In 2026 I was the founding engineer at a food-delivery startup, and the app I built crossed **7,000 downloads** with **50+ restaurant partners** on it. I also led mobile development for a student studio, shipping 3 client apps to the stores, and I train ML models and build things that work without the internet.
 
 **I'm looking for a software engineering internship** (backend, mobile, or applied ML) on a team that ships.
 
@@ -10,9 +10,16 @@ I'm a full-stack engineer and a third-year B.Tech CSE (AI & ML) student at **VIT
 
 ## What I'm doing right now
 
-- **Building:** Flutter apps for clients as Lead App Developer at Fenixa Solutions (3 shipped to the stores so far)
 - **Studying:** B.Tech CSE (AI & ML) at VIT Chennai, CGPA 8.69
-- **Learning:** React, Next.js, LLM integration, embeddings and vector databases
+- **Looking for:** a software engineering internship for Summer 2027
+- **Learning:** advanced Spring Boot, system design, DSA, ML fundamentals, and LLMs with embeddings & vector databases
+
+<br>
+
+## Where I've worked
+
+- **Founding Engineer, TASSA** (May – Aug 2026): built the Flutter app and Node.js/Express backend for a food-delivery startup, and ran it in production
+- **Lead App Developer, Fenixa Solutions** (Jan – Sept 2026): led Flutter development for a student-run team and shipped 3 client apps to Google Play and the App Store
 
 <br>
 
